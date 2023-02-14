@@ -2192,6 +2192,13 @@ html
         display: none;
     }
 }
+@media (max-width: 767px)
+{
+    .process__big-header
+    {
+        font-size: 34px;
+    }
+}
 @media (max-width: 461px)
 {
     .process__big-header
